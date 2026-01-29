@@ -1,5 +1,4 @@
-[Mod 17] Project: Building a Multi-Tool AI Agent to Interact
-🧠 Assignment: Building a Multi-Tool AI Agent to Interact with Medical Datasets and Web
+Building a Multi-Tool AI Agent to Interact with Medical Datasets and Web
 
 🎯 Objective:
 

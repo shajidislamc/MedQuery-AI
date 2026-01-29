@@ -1,2 +1,11 @@
 venv/*
-just.txt
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+.env
+.env.*
+.vscode/
+*.sqlite3
+*.db
+*.sqlite
+just
